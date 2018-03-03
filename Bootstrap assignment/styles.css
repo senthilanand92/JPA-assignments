@@ -1,0 +1,18 @@
+.contentDiv{
+    border:10px solid blue;
+}
+.clrbth{
+    clear:both;
+    height:2em;
+}
+body {
+    overflow-x: hidden;
+  }
+.blk{
+  display: block;
+}
+.colOffCanvas{
+    position: absolute;
+    width: 250px;
+    height: 100%;
+}
